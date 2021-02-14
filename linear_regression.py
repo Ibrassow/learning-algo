@@ -36,11 +36,11 @@ X_test = np.concatenate((test_o, X_test), axis=1)
 
 plt.scatter(X_test[:,1], y_test, c='b')
 plt.scatter(X_train[:,1], y_train, c='r')
-"""
+
 
 plt.show()
 
-
+"""
 
 #hypothesis
 
